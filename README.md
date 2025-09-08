@@ -20,7 +20,7 @@ JDK 17+
 MySQL 8+
 Maven 3.6+
 Passo 1: Configurar o Banco de Dados
-Crie o banco de dados HospitalCWB (ou altere no application.properties):
+Crie o banco de dados Chamado HospitalCWB.
 
 CREATE DATABASE IF NOT EXISTS HospitalCWB;
 Passo 2: Configurar application.properties
